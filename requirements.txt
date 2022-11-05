@@ -1,0 +1,6 @@
+pandas
+scipy
+apyori
+tk
+image
+pandastable
